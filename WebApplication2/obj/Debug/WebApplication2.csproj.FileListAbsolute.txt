@@ -1,0 +1,12 @@
+F:\Vinay\Projects\Tutorial\WebApplication2\WebApplication2\bin\WebApplication2.dll
+F:\Vinay\Projects\Tutorial\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+F:\Vinay\Projects\Tutorial\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+F:\Vinay\Projects\Tutorial\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+F:\Vinay\Projects\Tutorial\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Tin\Desktop\DA DKLT\website\testing\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Tin\Desktop\DA DKLT\website\testing\WebApplication2\bin\WebApplication2.dll
+C:\Users\Tin\Desktop\DA DKLT\website\testing\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Tin\Desktop\DA DKLT\website\testing\WebApplication2\obj\Debug\WebApplication2.csproj.AssemblyReference.cache
+C:\Users\Tin\Desktop\DA DKLT\website\testing\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Tin\Desktop\DA DKLT\website\testing\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Tin\Desktop\DA DKLT\website\testing\WebApplication2\obj\Debug\WebApplication2.pdb
